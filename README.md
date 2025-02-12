@@ -1,7 +1,7 @@
 # Olá 👋, me chamo Luiz Fernando!
 
 - Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe.
-- Atualmente sou estagiário de Suporte Técnico na Secretaria Especial da Comunicação Social do Governo do Estado de Sergipe!
+- Atualmente trabalho com suporte técnico na Secretaria de Estado da Comunicação Social do Governo do Estado de Sergipe!
 - Estou estudando Desenvolvimento Android e Kotlin!
 
 # Conhecimentos
