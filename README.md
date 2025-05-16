@@ -5,7 +5,28 @@
 - Estou estudando Desenvolvimento Android e Kotlin!
 
 # Conhecimentos
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=black&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23F05032&logoSize=auto) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&color=white) ![Static Badge](https://img.shields.io/badge/CSS-%23000?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto&color=white)
+## linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&color=white) 
+![CSS](https://img.shields.io/badge/CSS-%23000?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto&color=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+## Frameworks
+![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=black)
+![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## Ferramentas
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23F05032)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
 
 
 
